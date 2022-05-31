@@ -1,0 +1,30 @@
+.box-title{
+    color: rgba(0, 0, 0, 0.6);
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    font-size: 10px !important;
+    line-height: 1.4375em;
+    letter-spacing: 0.00938em;
+    padding: 0;
+    position: relative;
+    display: block;
+    transform-origin: top left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 133%;
+    left: 0;
+    top: 0;
+}
+.box-bold-text {
+    font-size: 12px !important;
+    font-weight: 800;
+    letter-spacing: 1px;
+    font-family: 'Open Sans';
+}
+#coc .css-10botns-MuiInputBase-input-MuiFilledInput-input{
+    padding: 0 !important;
+    border-bottom: 0px !important;
+    width: 85px;
+    background: #f0f4ff !important;
+}

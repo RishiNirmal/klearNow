@@ -1,0 +1,90 @@
+/* #profile-card .ProfileImg{
+    border-radius: 100% !important;
+    border: 2px solid #fff;
+    width: auto;
+    max-width: 60px;
+   
+}
+#profile-card .content{
+text-align: center;
+}
+
+    #profile-card {
+        border-radius: 0px;
+    text-align: center;
+    background-color: #52b2b7;
+    }
+    #profile-card .header , #profile-card .meta{
+        color: #fff;
+    }
+    #sidebar{
+        background-color: #fff;
+        width: 20rem !important;
+    }
+    .setup-labl{
+        color: #000;
+    }
+    #sidebar .item{
+        color: #1b6c70 !important;
+    font-weight: 900;
+    font-size: 12px;
+    }
+    #sidebar .menu{
+        margin: 10px;
+    }
+    .ui.menu.fixed {
+        z-index: 103;
+        margin: 0;
+        left: 276px !important;
+        width: 987px !important;
+    } */
+
+    .ui.visible.thin.left.sidebar~.pusher {
+        -webkit-transform: translate3d(286px,0,0) !important;
+        transform: translate3d(286px,0,0) !important;
+    }
+    .ui.thin.left.sidebar, .ui.thin.right.sidebar {
+        width: 285px !important;
+    border-right: 2px solid #9b9b9b;
+    }
+    .ui.labeled.icon.menu .item{
+        text-align: left !important;
+    }
+    .ui.vertical.menu .item>.menu {
+        margin: 10px !important;
+    }
+    .ui.basic.segment{
+        border: 1px solid #d5d5d5;
+    padding: 6px;
+    background: #f2f9ff !important;
+    
+    }
+    .ui.grid {
+        padding: 10px 4px !important;
+    }
+    .ui.selection.dropdown {
+        height: 33px !important;
+        font-size: 12px !important;
+        outline: none !important;
+        border-radius: 0px !important;
+    }
+    .menu-btn{
+        background: transparent !important;
+    color: #008b8f !important;
+    font-size: 14px !important;
+    }
+    .custu-head{
+        font-size: 13px;
+        padding: 10px 10px;
+        color: #000;
+        font-weight: 700;
+        font-family: 'Open Sans';
+        float: left;
+    }
+    .pushable {
+        transform: none !important;
+        position: static !important;
+    }
+    .css-134qg7o-MuiButtonBase-root-MuiIconButton-root{
+        background-color: #008b8f !important;
+    }

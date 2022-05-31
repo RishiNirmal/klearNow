@@ -1,0 +1,10 @@
+.ui.vertical.divider {
+    top: 10% !important;
+    left: 46% !important;
+}
+.table{
+    border-radius: 0px !important;
+}
+.row{
+    padding-top: 0px !important;
+}

@@ -1,0 +1,8 @@
+
+#new-add-btn .ui.button{
+    background: #008b8f;
+    color: #fff;
+    font-size: 12px;
+    width: calc(160% - 73px);
+    margin-left: 28px;
+}

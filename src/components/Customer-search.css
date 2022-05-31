@@ -1,0 +1,39 @@
+#coustomer-search .css-hip9hq-MuiPaper-root-MuiAppBar-root{
+    border: 1px solid #c4d0d1;
+    width: 240px;
+    border-radius: 0px !important;
+    padding: 10px;
+    background-color: transparent !important;
+}
+#coustomer-search .css-168o85v-MuiAutocomplete-root {
+    overflow: auto;
+}
+#coustomer-search{
+    float: right;
+}
+#coustomer-search .css-168o85v-MuiAutocomplete-root .MuiOutlinedInput-root .MuiAutocomplete-input {
+    padding: 0px;
+}
+#coustomer-search .MuiAutocomplete-hasPopupIcon.css-168o85v-MuiAutocomplete-root .MuiOutlinedInput-root{
+    height: 36px;
+    overflow: hidden;
+    margin: 3px 0px;
+}
+#customers-select .css-8u39c-MuiTypography-root{
+    overflow: initial !important;
+    white-space: initial !important ;
+}
+#customers-select .css-19ygod6-MuiNativeSelect-select-MuiInputBase-input-MuiInput-input.css-19ygod6-MuiNativeSelect-select-MuiInputBase-input-MuiInput-input.css-19ygod6-MuiNativeSelect-select-MuiInputBase-input-MuiInput-input {
+    border: 1px solid #d5d1d1;
+    margin: 6px 10px 4px 10px;
+    padding: 5px 15px;
+    border-radius: 0px;
+    width: 165px;
+}
+#customers-select {
+    float: left;
+    
+}
+#customers-select .css-1g12qau-MuiSvgIcon-root-MuiNativeSelect-icon{
+    width: 2em !important;
+}

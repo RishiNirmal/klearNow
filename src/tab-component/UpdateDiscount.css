@@ -1,0 +1,10 @@
+#udate-btn{
+    text-align: right;
+    margin-top: 20px;
+}
+#udate-btn .uptbut {
+    background: #008b8f;
+    color: #ffff;
+    border-radius: 0;
+    font-size: 12px;
+}

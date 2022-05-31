@@ -1,0 +1,36 @@
+
+#shipment-info{
+    margin: 10px !important;
+}
+#shipment-info  .column{
+    border: 0.5px solid #6e9fcc !important;
+    font-size: 12px;
+    padding: 1px 4px;
+    /* width: auto !important; */
+}
+#shipment-info .ui.grid+.grid {
+    margin-top: 0rem !important;
+}
+#shipment-info .ui.grid {
+    padding: 6px 4px !important;
+}
+.shipment-title{
+    font-size: 13px;
+    font-weight: 800;
+}
+.css-1480iag-MuiInputBase-root-MuiInput-root:before{
+    border-bottom: 0px !important;
+}
+label+.css-1480iag-MuiInputBase-root-MuiInput-root {
+    margin-top: -9px!important;
+    font-size: 12px !important;
+    font-weight: 800;
+    letter-spacing: 1px;
+    font-family: 'Open Sans';
+}
+.css-1480iag-MuiInputBase-root-MuiInput-root:after{
+    border-bottom: 0px !important;
+}
+.css-1c2i806-MuiFormLabel-root-MuiInputLabel-root{
+    position: static !important;
+}

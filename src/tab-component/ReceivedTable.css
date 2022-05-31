@@ -1,0 +1,37 @@
+#received-shipment-info{
+    margin: 10px !important;
+}
+#received-shipment-info  .column{
+    border: 0.5px solid #6e9fcc !important;
+    font-size: 12px;
+    padding: 1px 4px;
+    width: auto !important;
+}
+#received-shipment-info .ui.grid+.grid {
+    margin-top: 0rem !important;
+}
+#received-shipment-info .ui.grid {
+    padding: 6px 4px !important;
+}
+#received-shipment-info .prompt{
+    font-size: inherit;
+    font-weight: 900;
+    padding: 0;
+    background-color: transparent !important;
+    border: 0 !important;
+    font-family: 'Open Sans';
+    letter-spacing: 1px;
+}
+#received-shipment-info .search.icon{
+    right: -20px;
+    font-size: 15px;
+    color: #b9b4b4;
+}
+#received-shipment-info .box-bold-text-vo{
+    width: 180px;
+}
+#arrive-for-port{
+    background: #efefef;
+    padding: 4px 14px 16px 14px;
+    margin-bottom: 10px;
+}

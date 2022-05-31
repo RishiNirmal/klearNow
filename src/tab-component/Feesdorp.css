@@ -1,0 +1,5 @@
+#tabbar .ui.fluid.dropdown {
+    display: block;
+    width: 50%;
+    min-width: 0;
+}

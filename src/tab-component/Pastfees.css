@@ -1,0 +1,176 @@
+#pastfees-grid .fees-changes{
+    float: right;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 12px;
+    font-weight: 700;
+    
+
+}
+#pastfees-grid .ui.grid{
+    padding: 0px !important;
+    margin: 0px;
+}
+#pastfees-grid .fees-updt {
+    float: right;
+    padding: 5px 13px;
+    font-size: 11px;
+    background: #008b8f;
+    color: #ffffff;
+    font-weight: 600;
+}
+#pastfees-grid .ui.celled.grid>.row>.column{
+    border: 1px solid #3578cb !important;
+    font-size: 10px;
+    padding: 4px 6px;
+    font-weight: 600;
+}
+#pastfees-grid .ui.celled.grid>.row {
+    box-shadow: 0 1px 0 0 #e6ecec !important;
+}
+#pastfees-grid .ui.celled.grid>.column:not(.row){
+    box-shadow: 0 2px 0 0 #033432 !important;
+}
+#pastfees-grid .update-fees{
+    padding-top: 16rem !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+#pastfees-grid .price-bar{
+    background-color: #d9efff;
+    color: #000000;
+    padding: 0px 4px;
+    height: 16px;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#pastfees-grid .upt-bar{
+    background-color: #d9efff;
+    color: #000000;
+    padding: 0px 4px;
+    height: 16px;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#pastfees-grid .ui.grid>[class*="thirteen wide"].column{
+    padding: 0px !important;
+}
+
+/* Document Css */
+#document-section{
+    margin-top: 60px !important;
+    font-size: 12px;
+    font-weight: 600;
+}
+#document-section .column{
+    padding: 0px 5px !important;
+}
+#document-section .ui.grid {
+    padding: 0px 0px !important;
+    border: 1px solid #3578cb ;
+    margin: 0px;
+}
+
+#document-section .col-detail{
+    border: 0px !important;
+    box-shadow: none !important;
+    font-size: 10px;
+    font-weight: 600;
+    padding: 6px 10px !important;
+}
+#document-section .ui.default.dropdown:not(.button)>.text, .ui.dropdown:not(.button)>.default.text {
+    color: rgb(18 12 12 / 87%);
+    font-size: 15px;
+}
+#document-section .ui.selection.dropdown{
+    min-width: 8em;
+    background: #d9efff;
+    border: 0px !important;
+    height: 30px !important;
+}
+#document-section .discount-changes{
+    float: right;
+}
+#document-section .date-tim{
+    background: #d9efff;
+    height: 30px;
+    padding: 5px !important;
+    font-size: 14px !important;
+}
+#document-section .amt-price-bar {
+    font-size: 14px;
+    font-weight: 900;
+    background: #d9efff;
+    height: 30px;
+    width: 50px;
+}
+#document-section .doc-padding{
+    padding-top: 20px;
+}
+#document-section .right-document-until{
+    width: 140px !important;
+}
+#document-section .price-document-until{
+    width: 140px !important;
+}
+#document-section .between-box{
+    font-size: 13px;
+    padding-top: 7px !important;
+}
+#document-section .doc-zero{
+    background-color: #d9efff;
+    padding: 5px;
+}
+#document-section .doc-thusand{
+    background-color: #d9efff;
+    padding: 5px;
+    }
+    #document-section .add-tier{
+        padding-top: 10px !important;
+    }
+    #document-section .upt-bar{
+        background-color: #d9efff;
+        color: #000000;
+        padding: 0px 4px;
+        height: 16px;
+        font-size: 12px;
+        font-weight: 700;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    #document-section .ui.celled.grid>.row{
+        box-shadow: none !important;
+    }
+    #document-section .udt-detail{
+        margin-top: 40px !important;
+    }
+    #document-section .letter-ageri-pdf{
+        float: right;
+    }
+    #document-section .letter-ageri{
+        color: royalblue;
+        
+    }
+    .agreement-area{
+        border: 1px solid royalblue !important;
+        border-radius: 0 !important;
+    }
+    .pritre-btn{
+        background: #069d88;
+    padding: 5px;
+    font-size: 22px;
+    color: #fff;
+    border-radius: 4px;
+    }
+    .pdf-btn{
+        background: #ffffff;
+        padding: 3px;
+        font-size: 22px;
+        color: #008b8f;
+        border-radius: 4px;
+        border: 1px solid;
+    }

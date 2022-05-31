@@ -1,0 +1,120 @@
+.accordion-wrapper .accordion-item h3.accordion-title {
+  font-size: 1.75rem;
+  margin: 0;
+}
+
+.accordion-wrapper  h3.accordion-title button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    background: #20b70a;
+    border-radius: 1rem;
+    border: none;
+    text-align: left;
+    color: #ffffff;
+    font-weight: bold;
+    margin-top:1px;
+    padding: 0px 4px;
+}
+.accordion-wrapper h3.accordion-title button:after{
+    background-color: red !important;
+    height: 500px;
+}
+
+.accordion-wrapper  h3.accordion-title button.active {
+    background-color: #20b70a;
+    color: #ffffff;
+    border: #20b70a solid 1px;
+}
+
+.accordion-wrapper  h3.accordion-title button:hover {
+    background-color: #20b70a;
+}
+
+.accordion-wrapper .accordion-item h3.accordion-title button span.title-wrapper {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+
+.accordion-wrapper .accordion-item h3.accordion-title button span.icon-wrapper {
+  width: 10%;
+  display: flex;
+  justify-content: center;
+}
+
+
+.accordion-wrapper  h3.accordion-title button span.icon-wrapper span.minus {
+  content: url('../assets/line.svg');
+  width: 10px;
+  height: 10px;
+}
+
+.accordion-wrapper  h3.accordion-title button span.icon-wrapper span.plus {
+  content: url('../assets/plus.svg');
+  width: 10px;
+  height: 10px;
+  transform: rotate(90deg);
+  /* transition-timing-function: ease-in; */
+  /* transition: all 1s; */
+}
+
+.accordion-wrapper .accordion-item .accordion-panel .panel-close { 
+    background: #ffffff;
+    box-sizing: border-box;
+    padding: 0.5rem 1rem 0 1rem;
+    opacity: 1;
+    width: 100%;
+    height: 0px;
+    overflow: hidden;
+    /* transition-timing-function: ease-out;
+    transition: all 1s; */
+    
+}
+
+.accordion-wrapper .accordion-item .accordion-panel .panel-open {
+    overflow: hidden;
+    padding: 4px 14px 16px 14px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    border-radius: 0;
+    opacity: 1;
+    width: 100%;
+    height: auto;
+    /* transition-timing-function: ease-in;
+    transition: all 1s; */
+    margin-left: 10px;
+    
+}
+.accordion-panel{
+    border-left: 2px solid #20b70a;
+    margin-left: 8px;
+}
+
+.accordion-wrapper .accordion-item .accordion-panel p {
+  margin: 0;
+}
+.app-description{
+    padding-left: 20px;
+    border-left: 2px solid #20b70a;
+    margin-left: 8px;
+    padding-bottom: 20px;
+}
+.shipment-title-tw{
+    font-weight: 900 !important;
+    font-size: 14px !important;
+    margin-top:0px !important;
+    margin-bottom: 0px !important;
+}
+.location-icon{
+    width: 22px !important;
+    float: left;
+}
+.ranger{
+    padding-top: 60px;
+    padding-right: 70px;
+}
+.arrive-at-port{
+  background: #efefef;
+  padding: 4px 14px 16px 14px;
+}

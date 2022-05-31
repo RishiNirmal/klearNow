@@ -1,0 +1,77 @@
+.ui.card>.image>img{
+    width: auto !important;
+    max-width: 60px !important;
+    border-radius: 100% !important;
+    border: 3px solid #fff !important;
+}
+.ui.card>.image{
+    padding: 0px 90px 1px !important;
+    background: transparent !important;
+    
+}
+.ui.card{
+    background-image: linear-gradient(to right, #65d0c3,  #65d0c3,#199ea6, #199ea6);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    right: 1px;
+    border-radius: 0px!important;
+    text-align: center;
+}
+.profilename{
+    color: #fff;
+}
+.item{
+    color: rgb(19 108 108) !important;
+    font-size: 12px !important;
+    font-weight: 900 !important;
+}
+#sidebar .css-1t29gy6-MuiToolbar-root {
+    min-height: 48px !important;
+}
+#sidebar .css-ciy9n4-MuiPaper-root-MuiAppBar-root{
+    /* box-shadow: none !important; */
+}
+#sidebar .css-jzk4qw-MuiPaper-root-MuiAppBar-root{
+    /* box-shadow: none !important; */
+}
+#sidebar .css-jzk4qw-MuiPaper-root-MuiAppBar-root{
+background-color: #eff3f7 !important;
+}
+#sidebar .css-ciy9n4-MuiPaper-root-MuiAppBar-root{
+    background-color: #eff3f7 !important;
+}
+#sidebar .css-i4bv87-MuiSvgIcon-root{
+    color: #ffffff;
+}
+#sidebar .css-3v9zut {
+    min-height: 40px;
+}
+#sidebar .css-ttn1xo {
+    padding: 28px 2px;
+}
+#sidebar .css-h4y409-MuiList-root{
+    top: 188px !important;
+    left: 25px !important;
+}
+#sidebar .css-1f2xuhi-MuiDrawer-docked .MuiDrawer-paper{
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+#sidebar .css-10hburv-MuiTypography-root {
+    margin: 0;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    font-weight: 600 !important;
+    font-size: 13px !important;
+    line-height: 0.5 !important;
+    letter-spacing: 0.00938em;
+    display: block;
+    color: #2f6387 !important;
+}
+#sidebar .setup-labl{
+    font-size: 12px;
+    font-weight: 600;
+}

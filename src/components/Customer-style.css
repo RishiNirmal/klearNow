@@ -1,0 +1,27 @@
+#custumer-table .ui.five.column.table td {
+    width: 25%;
+    font-size: 8px;
+}
+
+#custumer-table .ui.table:last-child {
+    margin-bottom: 10px;
+}
+#custumer-table  .cutomer-name{
+    font-size: 15px;
+    color: royalblue;
+    font-weight: 700;
+}
+#custumer-table .cutomer-email{
+    font-size: 12px;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
+#custumer-table .cutomer-active-shipment{
+    font-size: 12px;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
+#custumer-table .ui.table td .image{
+    max-width: 75px;
+    padding: 4px 6px;
+}
